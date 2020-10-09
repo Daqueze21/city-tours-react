@@ -1,3 +1,5 @@
+Netlify deploy project : https://daqueze21-city-tour-react.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
